@@ -3,4 +3,5 @@ LABEL maintener="Kilian Mahé"
 
 RUN apk add --no-cache \
 	git \
-	openssh
+	openssh \
+        xvfb
